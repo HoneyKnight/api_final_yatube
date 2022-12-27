@@ -1,7 +1,7 @@
 ### Описание:
 Модуль API - Социальная сеть для публикации личных дневников.
 ### Технологии:
-- Python 3.8
+- Python 3.7
 - Django 2.2.19
 - Django Rest Framework 3.12.4
 ### Запуск проекта в dev-режиме:
@@ -9,7 +9,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/HoneyKnight/api_final_yatube
+https://github.com/HoneyKnight/REST_API_Yatube
 ```
 
 ```
@@ -23,7 +23,7 @@ py -3.7 -m venv venv
 ```
 
 ```
-source venv/bin/activate
+source venv/scripts/activate
 ```
 
 ```
